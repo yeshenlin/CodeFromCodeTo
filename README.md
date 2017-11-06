@@ -2,7 +2,7 @@
 
 
 ## 阶梯作业
-- [1 - 从strStr谈面试技巧与代码风格](https://github.com/yeshenlin/CodeFromCodeTo/blob/master/01_chapter/01_chapter.md)
+- [第一课 1 - 从strStr谈面试技巧与代码风格](https://github.com/yeshenlin/CodeFromCodeTo/blob/master/01_chapter/01_chapter.md)
 - 2 - 二分法
 - 3 - 二叉树与分治法
 - 4 - 宽度优先搜索
